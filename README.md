@@ -29,7 +29,7 @@ root(x)n.
 ```
 
 ## Output:
-![gcd of two number](square.png)
+![gcd of two number](i.png)
 
 
 ## Result:
